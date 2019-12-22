@@ -16,7 +16,7 @@ public class Book {
             String info= tytul + ";" + autor + ";" + prodData + ";" + publisher +
                     ";" + liczStron +";" + nrIsbn;
             System.out.println(info);
-            //test
+            //test2
 
         }
 
